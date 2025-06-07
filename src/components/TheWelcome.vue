@@ -24,9 +24,8 @@ import HouseIcon from './icons/IconHouse.vue'
     テニプラがあなたの運営するテニスサークルをどのようにお手伝いするか説明します。<br />
     Google Formから無料オンライン説明会にお申し込みください。<br /><br />
 
-    6月分は<a href="https://forms.gle/B8kZs1mEYxzGfRYw5" target="_blank" rel="noopener">こちら</a
+    6/7月分は<a href="https://forms.gle/B8kZs1mEYxzGfRYw5" target="_blank" rel="noopener">こちら</a
     ><br />
-    7月分は<a href="" target="_blank" rel="noopener">未定</a>
   </WelcomeItem>
   <WelcomeItem>
     <template #icon>
